@@ -80,6 +80,10 @@ body {
   margin-bottom: 1rem;
 }
 
+.title:hover {
+  color: var(--clr-yellow);
+}
+
 .description {
   color: var(--clr-gray-500);
   margin-bottom: 1.5rem;
