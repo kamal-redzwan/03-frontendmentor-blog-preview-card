@@ -82,6 +82,7 @@ body {
 
 .title:hover {
   color: var(--clr-yellow);
+  cursor: pointer;
 }
 
 .description {
